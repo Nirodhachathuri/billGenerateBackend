@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "build /Users/nirodhamalalagama/Desktop/assignment/bill_operate/backend/backend.csproj",
+			"file": "/Users/nirodhamalalagama/Desktop/assignment/bill_operate/backend/backend.csproj",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "dotnet: build /Users/nirodhamalalagama/Desktop/assignment/bill_operate/backend/backend.csproj"
+		}
+	]
+}
